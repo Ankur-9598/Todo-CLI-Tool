@@ -1,9 +1,10 @@
+## A Node.js Command Line TODO application
+### Running on local machine :-
+#### &ensp; 1.Go to the project root directory
+&emsp; i. run ```npm install``` <br />
+&emsp; ii. run ```mklink task task.bat``` on command prompt or ```cmd /c mklink task task.bat``` on powershell. (Make sure to open the shell in administrator mode)
 
-### First go to the project directory in the command line
-#### &emsp; 1. run ```npm install```
-#### &emsp; 2. run ```mklink task task.bat``` on command prompt or ```cmd /c mklink task task.bat``` on powershell. (Make sure to open the shell in administrator mode)
-
-### Get started with creating todos with command ```task $options``` on command prompt or ```./task $options``` on powershell.
+#### &ensp; 2.Get started with creating todos with command ```task $options``` on command prompt or ```./task $options``` on powershell.
 
 ### To test run ```npm test```
 
